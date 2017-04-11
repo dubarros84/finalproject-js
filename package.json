@@ -1,0 +1,27 @@
+{
+  "name": "finalproject-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dubarros84/notes-app-beta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dubarros84/notes-app-beta/issues"
+  },
+  "homepage": "https://github.com/dubarros84/notes-app-beta#readme",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "http-server": "^0.9.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}

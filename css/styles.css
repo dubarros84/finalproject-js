@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Dhurjati|Roboto');
+
+
+    
+header {
+
+	background: #D46A6A;
+	border-radius: 10px;
+	margin-top: 0;
+}
+
+body {
+background: #FFAAAA;
+
+
+
+}
+
+
+h1 {
+	font-family: 'Dhurjati', sans-serif;
+	font-size: 5rem;
+	text-align: center;
+	color: #550000;
+
+}
+
+h2 {
+	font-family: 'Dhurjati', sans-serif;
+	font-size: 1.5rem;
+	color: #801515;
+	margin-bottom: 0;
+	text-align: center;
+}
+
+button {
+	font-family: 'Roboto', sans-serif;
+
+}
+
+input, textarea {
+
+	border: solid thin #801515;
+	border-radius: 10px;
+	padding: 3px;
+	margin-top: 0;
+	width: 50%;
+	margin-left: 25%;
+	
+
+}
+
+button {
+	border-radius: 10px;
+	background-color: #550000;
+	color: white;
+	padding: 3px;
+	width: 25%;
+	margin-left: 25%;
+}
+
+.button2 {
+	margin-left: 0;
+}
+
+textarea {
+	height: 8rem;
+}
+
+input {
+	height: 1.5rem;
+}
